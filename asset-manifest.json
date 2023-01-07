@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/MOFA_personal_portfolio/static/css/main.bb391f28.css",
+    "main.js": "/MOFA_personal_portfolio/static/js/main.2ecfd8e5.js",
+    "static/js/787.fb771931.chunk.js": "/MOFA_personal_portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/MOFA_personal_portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/MOFA_personal_portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/MOFA_personal_portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/MOFA_personal_portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/MOFA_personal_portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/MOFA_personal_portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/Coding-bro.svg": "/MOFA_personal_portfolio/static/media/Coding-bro.68996b813a40c95a5a3f397fd82e216f.svg",
+    "static/media/project-img2.png": "/MOFA_personal_portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/MOFA_personal_portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/Mention-bro.svg": "/MOFA_personal_portfolio/static/media/Mention-bro.9eb405bae77798b371c5199dae70663a.svg",
+    "static/media/per85.png": "/MOFA_personal_portfolio/static/media/per85.966ee76a83b66c0072fe.png",
+    "static/media/per80.png": "/MOFA_personal_portfolio/static/media/per80.f6b0cb8430c59eadb19f.png",
+    "static/media/per75.png": "/MOFA_personal_portfolio/static/media/per75.b7cea71eb3c0e920f453.png",
+    "static/media/revicons.eot": "/MOFA_personal_portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/MOFA_personal_portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/MOFA_personal_portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/mf01Blue.svg": "/MOFA_personal_portfolio/static/media/mf01Blue.255e1721dad87876f072c8497028d27f.svg",
+    "static/media/mf01White.svg": "/MOFA_personal_portfolio/static/media/mf01White.0ec25b4240c4b602d7b5fad498f5226c.svg",
+    "static/media/logo.svg": "/MOFA_personal_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/MOFA_personal_portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/MOFA_personal_portfolio/index.html",
+    "static/media/nav-icon1.svg": "/MOFA_personal_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/MOFA_personal_portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.bb391f28.css.map": "/MOFA_personal_portfolio/static/css/main.bb391f28.css.map",
+    "main.2ecfd8e5.js.map": "/MOFA_personal_portfolio/static/js/main.2ecfd8e5.js.map",
+    "787.fb771931.chunk.js.map": "/MOFA_personal_portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb391f28.css",
+    "static/js/main.2ecfd8e5.js"
+  ]
+}
