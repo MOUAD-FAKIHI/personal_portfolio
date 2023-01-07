@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MOFA_personal_portfolio/static/css/main.bb391f28.css",
+    "main.css": "/MOFA_personal_portfolio/static/css/main.2007c084.css",
     "main.js": "/MOFA_personal_portfolio/static/js/main.2ecfd8e5.js",
     "static/js/787.fb771931.chunk.js": "/MOFA_personal_portfolio/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/MOFA_personal_portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -26,12 +26,12 @@
     "index.html": "/MOFA_personal_portfolio/index.html",
     "static/media/nav-icon1.svg": "/MOFA_personal_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/MOFA_personal_portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.bb391f28.css.map": "/MOFA_personal_portfolio/static/css/main.bb391f28.css.map",
+    "main.2007c084.css.map": "/MOFA_personal_portfolio/static/css/main.2007c084.css.map",
     "main.2ecfd8e5.js.map": "/MOFA_personal_portfolio/static/js/main.2ecfd8e5.js.map",
     "787.fb771931.chunk.js.map": "/MOFA_personal_portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb391f28.css",
+    "static/css/main.2007c084.css",
     "static/js/main.2ecfd8e5.js"
   ]
 }
