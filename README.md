@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2>
   MOFA<br/>
   <a href="https://mouad-fakihi.github.io/personal_portfolio/" target="_blank">Personal Portfolio Project</a>
 </h2>
