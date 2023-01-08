@@ -6,7 +6,6 @@
 ![all-devices-black](https://user-images.githubusercontent.com/101474129/211194013-2734944c-9ae3-4b4e-bfa2-149e8f7a48c8.png)
 
 ## Live Demo
-The online demo is just for the front-office part:
 
 - **💻 https://mouad-fakihi.github.io/personal_portfolio/ 💻**
 
