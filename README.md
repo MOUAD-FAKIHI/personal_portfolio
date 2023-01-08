@@ -48,7 +48,7 @@ You will find all the components used and you can edit your information accordin
 
 ## Authors ™️
 
-- [@Fakihi Mouad](https://github.com/MOFA01)
+- [@FAKIHI Mouad](https://github.com/MOFA01)
 
 ## Supervising
 
