@@ -5,6 +5,11 @@
 
 ![all-devices-black](https://user-images.githubusercontent.com/101474129/211194013-2734944c-9ae3-4b4e-bfa2-149e8f7a48c8.png)
 
+## Live Demo
+The online demo is just for the front-office part:
+
+- **💻 https://mouad-fakihi.github.io/personal_portfolio/ 💻**
+
 ## Built With
 
 This project was built using these technologies.
@@ -41,6 +46,10 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
+
+## Authors ™️
+
+- [@Fakihi Mouad](https://github.com/MOFA01)
 
 ## Supervising
 
