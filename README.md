@@ -42,6 +42,10 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
+## Supervising
+
+- [@ihababdelbasset annaki](https://github.com/thefledgedhurricane)
+
 ### Show your support
 
 Give a ⭐ if you like this website!
